@@ -1,0 +1,18 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Prueba en cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "luis",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.0"
+  }
+}
